@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randolphbailey/burger.git"
+  },
+  "author": "Randolph Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randolphbailey/burger/issues"
+  },
+  "homepage": "https://github.com/randolphbailey/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  }
+}
